@@ -1,6 +1,6 @@
-// iv) A user-defined component that has two local variables text and style where text is any
-// string and style contains css style property . The component must display this text as a main
-// heading with the style applied using interpolation.
+// v) A user-defined component that has a local variables text where text is any string . The
+// component must display this text as a main heading with text-primary and bg-light
+// Boortstrap styles applied .
 // Display this tag from App component
 
 import BootstrapDemo from "./pages/bootstrap.js";
